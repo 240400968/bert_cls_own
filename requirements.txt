@@ -1,0 +1,4 @@
+bert-tensorflow
+pandas
+jieba
+tensorflow_hub
