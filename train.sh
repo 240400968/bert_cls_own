@@ -1,4 +1,6 @@
 #!/bin/bash
+set -u
+set -e
 train_test(){
     biz=${1}
     unlink data
